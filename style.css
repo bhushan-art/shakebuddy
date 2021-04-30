@@ -1,0 +1,57 @@
+*{
+	max-width: 1920px;
+}
+*{
+	font-family: Roboto;
+}
+#services_offered{
+	margin-top: 30px;
+
+}
+.services-column{
+	padding: 20px;
+	text-align: center;
+}
+
+.services-content{
+	margin-top: 50px;
+}
+
+.profile{
+	margin-right: auto;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+.img-container{
+	text-align: center;
+	margin-top: 50px;
+}
+#olly{
+	padding: 100px;
+	
+}
+button{
+	margin-top: 50px;
+	width: 77%
+	text
+
+
+footer{
+	background-color: black;
+	color: #FFFFFF;
+	margin-top: 50px;
+	padding: 20px;
+}
+.footer-link{
+	color: #FFFFFF;
+}
+
+ul{
+	list-style: none;
+}
+a:hover{
+color: #BD8B71;
+}
+.links{
+	padding: 20px;
+}
